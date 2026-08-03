@@ -1,1 +1,1 @@
-# jehyojeong-sql-learning-log
+# hyojeong-sql-learning-log
